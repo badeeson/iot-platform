@@ -1,3 +1,6 @@
 [submodule "iot-platform-server"]
 	path = iot-platform-server
 	url = https://github.com/badeeson/iot-platform-server.git
+[submodule "iot-platform-web"]
+	path = iot-platform-web
+	url = https://github.com/badeeson/iot-platform-web.git
